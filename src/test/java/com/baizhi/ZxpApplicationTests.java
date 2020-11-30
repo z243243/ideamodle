@@ -8,6 +8,8 @@ class ZxpApplicationTests {
 
     @Test
     void contextLoads() {
+        int aaa=10;
+        int bbb=20;
     }
 
 }
